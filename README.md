@@ -20,4 +20,14 @@ Developed a comprehensive client-server application for efficient message manage
 - **Connection Handling**: Manages new TCP connections and checks for existing clients.
 - **Topic Management**: Handles UDP packets for topic updates, broadcasting to subscribed TCP clients.
 
+## Build and Run
 
+### Requirements
+- GCC Compiler
+- Make
+
+### Compiling the Application
+To compile the server and subscriber, run the following command in the terminal:
+
+```bash
+make all
