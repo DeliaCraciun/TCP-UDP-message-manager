@@ -20,15 +20,4 @@ Developed a comprehensive client-server application for efficient message manage
 - **Connection Handling**: Manages new TCP connections and checks for existing clients.
 - **Topic Management**: Handles UDP packets for topic updates, broadcasting to subscribed TCP clients.
 
-## Usage
-- Run the server: `command for running server`.
-- Connect with a client: `command for running client`.
 
-## Dependencies
-List of libraries and dependencies used.
-
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Project license information.
